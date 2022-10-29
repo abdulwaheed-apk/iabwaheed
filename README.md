@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ABDUL WAHEED
 - 👀 I’m interested in Lattest technologies in the world.
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web-development projects.
-- 📫 Reach me at ab.waheedkashmiri@gmail.com
+- 📫 Reach me at abdulwaheed.apk@gmail.com
      
 
 <!---
