@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lattest technologies in the world.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web-development projects.
-- 📫 Reach me at abdulwaheed.apk@gmail.com
+- 📫 Reach me at ab.waheed1722@gmail.com
      
 
 <!---
