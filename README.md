@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ABDUL WAHEED
-- 👀 I’m interested in React, Vue, and javaScript related stuff.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Web-development projects.
+- 👋 Hi, I’m Abdul Waheed
+- 👀 I’m interested in MERN related stuff.
+- 🌱 I’m currently learning React and C++.
+- 💞️ I’m looking to collaborate on web application projects.
 - 📫 Reach me at ab.waheed1722@gmail.com
      
 
